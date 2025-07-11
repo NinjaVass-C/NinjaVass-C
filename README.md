@@ -20,7 +20,7 @@ My name is Connor, and I am a third year Computer Programming and Analysis stude
 ## Currently Working  
 My first passion project, the OWL Archive (https://github.com/NinjaVass-C/OWLArchive), has been something I have thought about ever since support for the Overwatch League website was taken down. Knowing more about web design and backend development, I have decided to take this challenge upon myself, creating something that not only helps me develop as a programmer, but is something I would actually use!  
 
-BlackJack, the casino game everyone has heard of at some point, is something I have been interested in making for a while now. From all the logic, moving variables, and potential features, I decided to go upon making a full-stack blackjack application in Java, with plans to make a Spring Boot API, front end, and have all the features of blackjack in one (side bets, counting cards, multi hand, etc.)
+BlackJack (https://github.com/NinjaVass-C/BlackjackJava), the casino game everyone has heard of at some point, is something I have been interested in making for a while now. From all the logic, moving variables, and potential features, I decided to go upon making a full-stack blackjack application in Java, with plans to make a Spring Boot API, front end, and have all the features of blackjack in one (side bets, counting cards, multi hand, etc.)
 
 
 
