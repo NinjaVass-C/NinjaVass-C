@@ -5,7 +5,7 @@ My name is Connor, and I am a third year Computer Programming and Analysis stude
 ## Who Am I  
 💬 Connor - Computer Programming and Analysis Student  
 🧩 Hobbies - Esports Watcher, Video Game Enjoyer, and Avid Metal Listener.  
-💻 Coding - Work Experience in PHP, javascript (JQuery) and MySQL, and in my personal work Java, Vue.JS, and Express.JS
+💻 Coding - Work Experience in PHP, javascript (JQuery) and MySQL, and in my personal work Java, Vue.JS, and Express.JS\n
 🔨 Skills - Video/Photo Editing, Microsoft Office Experience, Working/Leading in collaberative environments. 
 ✉️ Contact - For any inquires, reach out at connorvassinfo@gmail.com  
 
