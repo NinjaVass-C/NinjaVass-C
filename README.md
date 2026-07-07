@@ -17,11 +17,9 @@ My name is Connor, and I am a third year Computer Programming and Analysis stude
   </a>
 </p>
 
-## Currently Working  
-I am currently working on Distorted Realities (https://github.com/NinjaVass-C/distorted-realities), a SCP foundation inspired open-source story project where user add individual entries to a larger universe narrative. It involves full system design, authentication, and more, acting as a flagship project for personal experience and learning. 
-
-BlackJack (https://github.com/NinjaVass-C/BlackjackJava), the casino game everyone has heard of at some point, is something I have been interested in making for a while now. From all the logic, moving variables, and potential features, I decided to go upon making a full-stack blackjack application in Java, with plans to make a Spring Boot API, front end, and have all the features of blackjack in one (side bets, counting cards, multi hand, etc.)
-
+## Currently Working
+- I am currently working as a full stack web developer at Fenix Alma Solutions Inc, specializing in PHP, javascript, and mariadb.
+- Outside of work, I have been spending some time learning typescript and its various associated frameworks, such as react and nestjs. My current focus is on a [spotify tracker](https://github.com/NinjaVass-C/spotify-tracker) that will track user analytics, show listening time, and help generate song suggestions for future listening.
 
 
 
